@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA;EAEI;EACA;EACA;EACA;;AAEF;EACE","file":"github-page-test.80ee2152.css","sourceRoot":"..","sourcesContent":["body{\n  \n    display: flex;\n    align-items: center;\n    font-size: 100px;\n    justify-content: center;\n  \n  div{\n    color: aqua;\n  }\n}"]}
